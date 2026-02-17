@@ -8,7 +8,7 @@
         "continuous-integration"
     ],
     "filePatterns": [
-        "Jo-way.md$"
+        "jo-way.md$"
     ]
 
 }
